@@ -12,6 +12,7 @@ How its work..?
 4. Copy your ZIP file in the same directory as "encrypted.zip"
 5. Run the "crack.py" file...
 
-Wow... You get it...😃😃
+Wow... You did it...😃😃
 
 Subscribe our channel for more...
+http://m.youtube.com/techtipstricksbd
