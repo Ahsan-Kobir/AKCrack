@@ -9,6 +9,8 @@ Instructions:
 Open cmd or termux
 
 git clone https://github.com/Ahsan-Kobir/AKCrack.git
+
+
 cd AKCrack
 
 Keep your zip and password dictionary file in the same folder where the crack.py exists.
@@ -19,3 +21,6 @@ encrypted.zip, password.txt
 Then,
 
 python crack.py
+
+
+(Old code)
