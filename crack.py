@@ -22,9 +22,6 @@ def main():
     
     print "Password cracking started..."
     print " "
-    print "For more cracker script, subscribe our channel"
-    print "http://youtube.com/techtipstricksbd"
-    print " "
     print "Please wait...."
     timeStart = time()
     with open("passwords.txt", "r") as f:
@@ -37,8 +34,6 @@ def main():
                 print "\nPassword cracking successful: %s\n" % password
                 print "%i Password tried per second " % (pass_count/totalTime)
                 print " "
-                print "For thanking us, subscribe our channel"
-                print "http://youtube.com/techtipstricksbd"
                 return
             except Exception as e:
                 if str(e[0]) == 'Bad password for file':
@@ -48,8 +43,6 @@ def main():
                 else:
                     print e
         print "Please try another passwords list file"
-        print "For more cracker script, subscribe our channel"
-        print "http://youtube.com/techtipstricksbd"
 
 if __name__ == '__main__':
 	main()
